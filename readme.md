@@ -9,10 +9,12 @@ Set up a web application using Flask framework in python. Libraries like Jinja a
 
 **Use the commands below to install the requirements.txt**
 
+```shell
 $ cd MovieCenter
 $ py -3 -m venv venv
 $ venv\Scripts\activate
 $ pip install -r requirements.txt
+```
 
 ## Virtual environment
 Set up the virtual environment in Pycharm.
