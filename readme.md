@@ -28,7 +28,7 @@ Use the command "$ flask run" to run the application
 
 5. Configuration
 
-The *MovieCenter/.env* file set variables and values corresponding to those variables. 
+The MovieCenter/.env file set variables and values corresponding to those variables. 
 
 - FLASK_APP: Entry point of the application (should always be wsgi.py).
 - FLASK_ENV: The environment in which to run the application (either development or production).
